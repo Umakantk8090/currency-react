@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/currency-react/static/css/main.ce36819c.css",
+    "main.js": "/currency-react/static/js/main.e90b377e.js",
+    "index.html": "/currency-react/index.html",
+    "main.ce36819c.css.map": "/currency-react/static/css/main.ce36819c.css.map",
+    "main.e90b377e.js.map": "/currency-react/static/js/main.e90b377e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce36819c.css",
+    "static/js/main.e90b377e.js"
+  ]
+}
